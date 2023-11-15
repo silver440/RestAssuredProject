@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6738" started-at="2021-03-09T22:12:48 CST" finished-at="2021-03-09T22:12:54 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6738" started-at="2021-03-09T22:12:48 CST" finished-at="2021-03-09T22:12:54 CST">
+      <class name="Test_Post">
+        <test-method status="PASS" signature="Test_delete()[pri:0, instance:Test_Post@614ddd49]" name="Test_delete" duration-ms="3379" started-at="2021-03-09T22:12:48 CST" finished-at="2021-03-09T22:12:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_delete -->
+        <test-method status="PASS" signature="Test_get()[pri:0, instance:Test_Post@614ddd49]" name="Test_get" duration-ms="1240" started-at="2021-03-09T22:12:51 CST" finished-at="2021-03-09T22:12:52 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_get -->
+        <test-method status="PASS" signature="Test_path()[pri:0, instance:Test_Post@614ddd49]" name="Test_path" duration-ms="689" started-at="2021-03-09T22:12:52 CST" finished-at="2021-03-09T22:12:53 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_path -->
+        <test-method status="PASS" signature="Test_post()[pri:0, instance:Test_Post@614ddd49]" name="Test_post" duration-ms="713" started-at="2021-03-09T22:12:53 CST" finished-at="2021-03-09T22:12:54 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_post -->
+        <test-method status="PASS" signature="Test_put()[pri:0, instance:Test_Post@614ddd49]" name="Test_put" duration-ms="671" started-at="2021-03-09T22:12:54 CST" finished-at="2021-03-09T22:12:54 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_put -->
+      </class> <!-- Test_Post -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
